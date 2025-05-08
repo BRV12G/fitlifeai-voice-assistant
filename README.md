@@ -39,10 +39,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Technologies used
 <ul>
   <li>Next.js: React framework for building the frontend and API routes</li>
-Tailwind CSS & Shadcn UI: For styling and UI components
-Clerk: Authentication and user management
-Vapi: Voice agent platform for conversational AI
-Convex: Real-time database
-Gemini AI: Large Language Model for generating personalized fitness programs
+<li>Tailwind CSS & Shadcn UI: For styling and UI components</li>
+<li>Clerk: Authentication and user management</li>Clerk: Authentication and user management
+<li>Vapi: Voice agent platform for conversational AI</li>
+<li>Convex: Real-time database</li>
+<li>Gemini AI: Large Language Model for generating personalized fitness programs</li>
 </ul>
 
