@@ -46,3 +46,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <li>Gemini AI: Large Language Model for generating personalized fitness programs</li>
 </ul>
 
+## Features
+<ul>
+  <li>Smart AI Assistant: Engage in conversation with an AI that asks about your fitness goals, physical condition, and preferences</li>
+  <li>Personalized Workout Plans: Get custom exercise routines based on your fitness level, injuries, and goals</li>
+<li>Diet Recommendations: Receive personalized meal plans accounting for your allergies and dietary preferences</li>
+<li>User Authentication: Sign in with GitHub, Google, or email/password</li>
+</ul>
+
